@@ -4,13 +4,13 @@
 
 
 ## 👋 Sobre Mim
-Olá! Eu sou Davidson Santos Conceição, um desenvolvedor Full-stack e DevOps apaixonado por construir soluções de ponta a ponta. Minha especialidade é a criação de **sistemas resilientes** e a aplicação de **metodologias ágeis** para entregar software de alta qualidade de forma eficiente e consistente.
+Olá! Eu sou Davidson Santos Conceição, um **Engenheiro DevOps com uma sólida base profissional em Telecomunicações**, apaixonado por criar soluções Full-stack de **alta disponibilidade**.
 
-Meu trabalho une o desenvolvimento de aplicações robustas, tanto no front-end quanto no back-end, com as melhores práticas de operações (DevOps) para garantir que as soluções sejam não apenas funcionais, mas também escaláveis, seguras e confiáveis. Tenho experiência em automação de infraestrutura, CI/CD e monitoramento, buscando sempre a otimização do ciclo de vida de desenvolvimento de software.
+Minha trajetória em Telecom me proporcionou um profundo entendimento sobre a importância crítica de infraestruturas robustas, redes de alta performance e sistemas que simplesmente não podem falhar. Essa mentalidade de resiliência e disponibilidade contínua é o pilar do meu trabalho hoje, aplicando os princípios de SRE (Site Reliability Engineering) e DevOps.
 
-Acredito que a colaboração e a agilidade são as chaves para o sucesso de qualquer projeto. Estou sempre em busca de novos desafios e aprendizados para aprimorar minhas habilidades e contribuir para a criação de tecnologia que realmente faça a diferença.
+Eu uno o desenvolvimento de aplicações Full-stack—desde a interface do usuário até a lógica de negócios e o banco de dados—com práticas de operações de ponta. Utilizo automação, CI/CD e Infraestrutura como Código (IaC) para garantir que cada solução seja não apenas funcional, mas também inerentemente escalável, segura e, acima de tudo, confiável.
 
-Se você procura um profissional comprometido com a qualidade, resiliência e entrega contínua, vamos nos conectar!
+Guiado por metodologias ágeis, busco sempre entregar valor de forma consistente, otimizando o ciclo de vida do software, da primeira linha de código até a produção. Se você busca um profissional com uma visão integrada para criar e manter sistemas de alta performance, vamos nos conectar!
 
 
 ## 🔧 Linguagens & Ferramentas
@@ -23,10 +23,10 @@ Se você procura um profissional comprometido com a qualidade, resiliência e en
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-05122A?style=flat&logo=kubernetes)&nbsp;
 ![Terraform](https://img.shields.io/badge/-Terraform-05122A?style=flat&logo=terraform)&nbsp;
+![Prometheus](https://img.shields.io/badge/-Prometheus-05122A?style=flat&logo=prometheus)&nbsp;
+![Grafana](https://img.shields.io/badge/-Grafana-05122A?style=flat&logo=grafana)&nbsp;
 ![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazon-aws)&nbsp;
-![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-05122A?style=flat&logo=google-cloud)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-05122A?style=flat&logo=github-actions)&nbsp;
 
 ## 📊 Minhas Estatísticas no GitHub
