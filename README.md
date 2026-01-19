@@ -1,7 +1,7 @@
 <h1 align="center">
   <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Olá, Mundo! Eu sou o Davidson.
 </h1>
-
+<img src="https://ghstats.17lai.site/?username=davidsoncabista&show_icons=true&number_format=long&border_radius=20&rank_icon=percentile&ring_color=75C3FD&hide=issues" width=700 />
 
 ## 👋 Sobre Mim
 Olá! Eu sou Davidson Santos Conceição, um **Engenheiro DevOps com uma sólida base profissional em Telecomunicações**, apaixonado por criar soluções Full-stack de **alta disponibilidade**.
