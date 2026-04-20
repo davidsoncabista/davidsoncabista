@@ -1,16 +1,17 @@
 <h1 align="center">
-  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Olá, Mundo! Eu sou o Davidson.
+  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Olá! Eu sou o Davidson.
 </h1>
+<p align="center">
+  <b>Software Architect | Full Cycle Developer | Infrastructure Solutions Specialist</b>
+</p>
 <img src="https://ghstats.17lai.site/?username=davidsoncabista&show_icons=true&number_format=long&border_radius=20&rank_icon=percentile&ring_color=75C3FD&hide=issues" width=700 />
 
 ## 👋 Sobre Mim
-Olá! Eu sou Davidson Santos Conceição, um **Engenheiro DevOps com uma sólida base profissional em Telecomunicações**, apaixonado por criar soluções Full-stack de **alta disponibilidade**.
+Eu sou Davidson Santos Conceição, um **Full Cycle Developer** com 18 anos de experiência em infraestruturas críticas e arquitetura de sistemas. Minha base sólida em Telecomunicações me moldou com uma obsessão: **Alta Disponibilidade e Resiliência.**
 
-Minha trajetória em Telecom me proporcionou um profundo entendimento sobre a importância crítica de infraestruturas robustas, redes de alta performance e sistemas que simplesmente não podem falhar. Essa mentalidade de resiliência e disponibilidade contínua é o pilar do meu trabalho hoje, aplicando os princípios de SRE (Site Reliability Engineering) e DevOps.
+Diferente da maioria, eu domino o ciclo completo da tecnologia: desde o hardware físico e redes de alta performance em **Data Centers (Bare Metal)**, passando por camadas de virtualização e armazenamento distribuído (**Proxmox & Ceph**), até o desenvolvimento de aplicações Full-stack modernas e escaláveis.
 
-Eu uno o desenvolvimento de aplicações Full-stack—desde a interface do usuário até a lógica de negócios e o banco de dados—com práticas de operações de ponta. Utilizo automação, CI/CD e Infraestrutura como Código (IaC) para garantir que cada solução seja não apenas funcional, mas também inerentemente escalável, segura e, acima de tudo, confiável.
-
-Guiado por metodologias ágeis, busco sempre entregar valor de forma consistente, otimizando o ciclo de vida do software, da primeira linha de código até a produção. Se você busca um profissional com uma visão integrada para criar e manter sistemas de alta performance, vamos nos conectar!
+Atualmente, foco em transformar ambientes complexos de infraestrutura em soluções gerenciáveis através de Software e Automação (IaC). Sou o criador do **InfraVision**, uma plataforma de monitoramento com Digital Twin, e contribuidor ativo da comunidade **Open Source** (Proxmox Helper Scripts). Se você busca alguém que entende do bit ao byte, da fibra ao frontend, vamos nos conectar!
 
 
 ## 🔧 Linguagens & Ferramentas
