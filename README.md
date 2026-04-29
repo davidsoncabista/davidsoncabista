@@ -77,17 +77,17 @@ Sou criador do **InfraVision (DCIM Platform)** e desenvolvedor do **Dungeon App 
 
 ## 🚀 Projetos em Destaque
 
-### 🌐 InfraVision – DCIM Platform
+### 🌐 [InfraVision – DCIM Platform](https://github.com/davidsoncabista/InfraVision)
 Plataforma completa de gestão de infraestrutura de Data Center.
 
 - Monitoramento e visualização de infraestrutura crítica
-- Arquitetura self-hosted com PostgreSQL + PostgREST
+- Arquitetura self-hosted com PostgreSQL + Next.js
 - Automação com Ansible + Docker + Proxmox
 - Sistema de observabilidade e digital twin
 
 ---
 
-### 🎲 Dungeon App – SaaS em Produção
+### 🎲 [Dungeon App – SaaS em Produção](https://github.com/davidsoncabista/Dungeon-App)
 🌐 https://www.dungeonbelem.com.br
 
 Sistema real em produção para gestão de associação.
@@ -100,21 +100,19 @@ Sistema real em produção para gestão de associação.
 
 ---
 
-## 🧠 Experiência com Infraestrutura Real
+### ⚙️ [Homelab Automation (K3s & Terraform)](https://github.com/davidsoncabista/homelab-automation-k3s)
+Infraestrutura como Código (IaC) para provisionamento de clusters Kubernetes.
 
-- Ambiente de colocation em Data Center Tier III
-- Cluster Proxmox com alta capacidade (1TB+ RAM)
-- Infraestrutura self-hosted em produção
-- Automação de deploy e infraestrutura como código
-- Experiência com substituição de serviços cloud por stack própria
+- Automação de provisionamento no Proxmox usando Terraform
+- Configuração de nós via Cloud-init
+- Deploy automatizado de cluster K3s
 
 ---
 
 ## 🔥 Open Source
 
-- Contribuições aceitas em projetos globais
-- Código integrado em automações da comunidade Proxmox
-- Participação ativa em projetos de infraestrutura open source
+- **Proxmox VE Helper-Scripts:** [Contribuição aprovada e integrada](https://github.com/community-scripts/ProxmoxVE/pull/13798) em automações da comunidade global do Proxmox.
+- Participação ativa em projetos de infraestrutura open source, incluindo visualizadores de topologia de rede self-hosted.
 
 ---
 
